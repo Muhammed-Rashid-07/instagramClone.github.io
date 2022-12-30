@@ -1,0 +1,1 @@
+This is just a instagram clone made with just html and css.
